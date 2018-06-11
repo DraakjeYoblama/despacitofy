@@ -35,7 +35,7 @@ setSquanchButton = function(currentlyActivated, reloadTabInd) {
     var squanchButton = $(".squanchy-button");
     var squanchSlider = $(".slider-container");
 
-    squanchButton.html(setToActivated ? "De-Squanch" : "Re-Squanch");
+    squanchButton.html(setToActivated ? "De-Spacito" : "Re-Spacito");
     squanchButton.css("background", (setToActivated ? "#e64343" : "#0ada8f"));
     squanchButton.attr("activated", (setToActivated ? true : false));
 
