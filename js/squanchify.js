@@ -122,7 +122,7 @@ var squanchify = function(despacitoness){
 
                         var ch = wordToSquanch.charAt(0);
                         var isAllCaps = (wordToSquanch === wordToSquanch.toUpperCase());
-                        squanchText = (ch === ch.toUpperCase()) ? "Squanch" : "squanch";
+                        squanchText = (ch === ch.toUpperCase()) ? "Despacito" : "despacito";
 
                         /* You can't just say "squanch" willy nilly with no--urgh--context, Morty.
                            The real squanch comes from the heart. And proper conju--conjugation. */
