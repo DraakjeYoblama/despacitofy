@@ -28,7 +28,7 @@ $(document).ready(function(){
 // number from 0-1 (using Math.random()) must be greater than to squanch.
 // The lower the squanchiness, the higher propability a word will be squanched.
 // Kinda the opposite of what you'd expect. Maybe I should change that.
-var squanchify = function(squanchyness){
+var squanchify = function(squanchiness){
 
     // Skip all prepositions, all forms of pronouns, etc--this way all sentences
     // stay intact
