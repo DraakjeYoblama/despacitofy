@@ -2,7 +2,7 @@
 ~~Squanchify~~ is the...the quickest and most accurate method of making your Chrome browsing experience ~~squanchier~~ despacito. Also, the only one.
 
 ## How it Works
-This extension--well, it crawls through your pages' links and text, replacing words every now and then with the correct conjugation of the, umm, the word "despacito." Even less funny than the squanch version!
+This extension--well, it crawls through your pages' links and text, replacing words every now and then with the correct conjugation of the, umm, the word "despacito." Even less funny than the squanchy version!
 
 ![Some ~~Squanch~~ Despacito.](screenshots/ChromeSquanch.PNG)
 
